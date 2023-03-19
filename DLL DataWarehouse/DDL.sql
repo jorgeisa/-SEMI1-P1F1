@@ -1,0 +1,2 @@
+CREATE DATABASE seminario2_201807316;
+USE seminario2_201807316;
